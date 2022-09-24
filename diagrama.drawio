@@ -1,0 +1,500 @@
+<mxfile host="65bd71144e">
+    <diagram id="ZoU-ZxbdlS3SKDEKbdNX" name="Página-1">
+        <mxGraphModel dx="3596" dy="360" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="4" value="" style="edgeStyle=none;html=1;" parent="1" source="2" target="3" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="2" value="INICIO" style="ellipse;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" parent="1" vertex="1">
+                    <mxGeometry x="240" width="120" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="6" value="" style="edgeStyle=none;html=1;exitX=0.485;exitY=0.859;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="3" target="5" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="3" value="LISTA USUARIOS" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;" parent="1" vertex="1">
+                    <mxGeometry x="240" y="100" width="120" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="9" value="" style="edgeStyle=none;html=1;" parent="1" source="5" target="8" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="5" value="CÓDIGO_USUARIO" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" parent="1" vertex="1">
+                    <mxGeometry x="230" y="190" width="140" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="11" value="" style="edgeStyle=none;html=1;" parent="1" source="8" target="10" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <Array as="points">
+                            <mxPoint x="440" y="310"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="13" value="" style="edgeStyle=none;html=1;" parent="1" source="8" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="160" y="330" as="targetPoint"/>
+                        <Array as="points">
+                            <mxPoint x="160" y="310"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="8" value="CÓDIGO ==USUARIO1" style="rhombus;whiteSpace=wrap;html=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" parent="1" vertex="1">
+                    <mxGeometry x="220" y="270" width="160" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="10" value="INFORMACIÓN DEL USUARIO" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=#6a00ff;fontColor=#ffffff;strokeColor=#3700CC;" parent="1" vertex="1">
+                    <mxGeometry x="380" y="330" width="120" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="15" value="CÓDIGO ==USUARIO2" style="rhombus;whiteSpace=wrap;html=1;fillColor=#d80073;fontColor=#ffffff;strokeColor=#A50040;" parent="1" vertex="1">
+                    <mxGeometry x="80" y="330" width="160" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="16" value="" style="edgeStyle=none;html=1;" parent="1" target="17" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="240" y="370" as="sourcePoint"/>
+                        <Array as="points">
+                            <mxPoint x="300" y="370"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="17" value="INFORMACIÓN DEL USUARIO" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=#a20025;fontColor=#ffffff;strokeColor=#6F0000;" parent="1" vertex="1">
+                    <mxGeometry x="240" y="390" width="120" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="18" value="" style="edgeStyle=none;html=1;" parent="1" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="80" y="370" as="sourcePoint"/>
+                        <mxPoint x="20" y="390" as="targetPoint"/>
+                        <Array as="points">
+                            <mxPoint x="20" y="370"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="19" value="CÓDIGO ==USUARIO3" style="rhombus;whiteSpace=wrap;html=1;fillColor=#fa6800;fontColor=#000000;strokeColor=#C73500;" parent="1" vertex="1">
+                    <mxGeometry x="-60" y="390" width="160" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="20" value="" style="edgeStyle=none;html=1;" parent="1" target="21" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="100" y="430" as="sourcePoint"/>
+                        <Array as="points">
+                            <mxPoint x="160" y="430"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="21" value="INFORMACIÓN DEL USUARIO" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=#e51400;fontColor=#ffffff;strokeColor=#B20000;" parent="1" vertex="1">
+                    <mxGeometry x="100" y="450" width="120" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="22" value="" style="edgeStyle=none;html=1;" parent="1" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="-60" y="430" as="sourcePoint"/>
+                        <mxPoint x="-120" y="450" as="targetPoint"/>
+                        <Array as="points">
+                            <mxPoint x="-120" y="430"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="23" value="CÓDIGO ==USUARIO4" style="rhombus;whiteSpace=wrap;html=1;fillColor=#e3c800;fontColor=#000000;strokeColor=#B09500;" parent="1" vertex="1">
+                    <mxGeometry x="-200" y="450" width="160" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="24" value="" style="edgeStyle=none;html=1;" parent="1" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="-200" y="490" as="sourcePoint"/>
+                        <mxPoint x="-260" y="510" as="targetPoint"/>
+                        <Array as="points">
+                            <mxPoint x="-260" y="490"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="25" value="CÓDIGO ==USUARIO5" style="rhombus;whiteSpace=wrap;html=1;fillColor=#647687;fontColor=#ffffff;strokeColor=#314354;" parent="1" vertex="1">
+                    <mxGeometry x="-340" y="510" width="160" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="26" value="" style="edgeStyle=none;html=1;" parent="1" target="27" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="-180" y="550" as="sourcePoint"/>
+                        <Array as="points">
+                            <mxPoint x="-120" y="550"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="27" value="INFORMACIÓN DEL USUARIO" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=#6d8764;fontColor=#ffffff;strokeColor=#3A5431;" parent="1" vertex="1">
+                    <mxGeometry x="-180" y="570" width="120" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="28" value="" style="edgeStyle=none;html=1;" parent="1" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="-340" y="550" as="sourcePoint"/>
+                        <mxPoint x="-400" y="570" as="targetPoint"/>
+                        <Array as="points">
+                            <mxPoint x="-400" y="550"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="29" value="CÓDIGO ==USUARIO6" style="rhombus;whiteSpace=wrap;html=1;fillColor=#76608a;fontColor=#ffffff;strokeColor=#432D57;" parent="1" vertex="1">
+                    <mxGeometry x="-480" y="570" width="160" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="30" value="" style="edgeStyle=none;html=1;" parent="1" target="31" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="-320" y="610" as="sourcePoint"/>
+                        <Array as="points">
+                            <mxPoint x="-260" y="610"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="31" value="INFORMACIÓN DEL USUARIO" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=#a0522d;fontColor=#ffffff;strokeColor=#6D1F00;" parent="1" vertex="1">
+                    <mxGeometry x="-320" y="630" width="120" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="32" value="" style="edgeStyle=none;html=1;" parent="1" target="33" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="-40" y="490" as="sourcePoint"/>
+                        <Array as="points">
+                            <mxPoint x="20" y="490"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="33" value="INFORMACIÓN DEL USUARIO" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=#f0a30a;fontColor=#000000;strokeColor=#BD7000;" parent="1" vertex="1">
+                    <mxGeometry x="-40" y="510" width="120" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="34" value="" style="edgeStyle=none;html=1;" parent="1" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="-480" y="610" as="sourcePoint"/>
+                        <mxPoint x="-540" y="630" as="targetPoint"/>
+                        <Array as="points">
+                            <mxPoint x="-540" y="610"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="35" value="CÓDIGO ==USUARIO6" style="rhombus;whiteSpace=wrap;html=1;fillColor=#60a917;strokeColor=#2D7600;fontColor=#ffffff;" parent="1" vertex="1">
+                    <mxGeometry x="-620" y="630" width="160" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="36" value="" style="edgeStyle=none;html=1;" parent="1" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="-620" y="670" as="sourcePoint"/>
+                        <mxPoint x="-680" y="690" as="targetPoint"/>
+                        <Array as="points">
+                            <mxPoint x="-680" y="670"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="37" value="CÓDIGO ==USUARIO7" style="rhombus;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" parent="1" vertex="1">
+                    <mxGeometry x="-760" y="690" width="160" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="38" value="" style="edgeStyle=none;html=1;" parent="1" target="39" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="-600" y="730" as="sourcePoint"/>
+                        <Array as="points">
+                            <mxPoint x="-540" y="730"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="39" value="INFORMACIÓN DEL USUARIO" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;" parent="1" vertex="1">
+                    <mxGeometry x="-600" y="750" width="120" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="40" value="" style="edgeStyle=none;html=1;" parent="1" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="-760" y="730" as="sourcePoint"/>
+                        <mxPoint x="-820" y="750" as="targetPoint"/>
+                        <Array as="points">
+                            <mxPoint x="-820" y="730"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="41" value="CÓDIGO ==USUARIO8" style="rhombus;whiteSpace=wrap;html=1;fillColor=#6a00ff;fontColor=#ffffff;strokeColor=#3700CC;" parent="1" vertex="1">
+                    <mxGeometry x="-900" y="750" width="160" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="42" value="" style="edgeStyle=none;html=1;" parent="1" target="43" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="-740" y="790" as="sourcePoint"/>
+                        <Array as="points">
+                            <mxPoint x="-680" y="790"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="43" value="INFORMACIÓN DEL USUARIO" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" parent="1" vertex="1">
+                    <mxGeometry x="-740" y="810" width="120" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="44" value="" style="edgeStyle=none;html=1;" parent="1" target="45" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="-460" y="670" as="sourcePoint"/>
+                        <Array as="points">
+                            <mxPoint x="-400" y="670"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="45" value="INFORMACIÓN DEL USUARIO" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
+                    <mxGeometry x="-460" y="690" width="120" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="46" value="" style="edgeStyle=none;html=1;" parent="1" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="-900" y="790" as="sourcePoint"/>
+                        <mxPoint x="-960" y="810" as="targetPoint"/>
+                        <Array as="points">
+                            <mxPoint x="-960" y="790"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="47" value="CÓDIGO ==USUARIO9" style="rhombus;whiteSpace=wrap;html=1;fillColor=#a20025;fontColor=#ffffff;strokeColor=#6F0000;" parent="1" vertex="1">
+                    <mxGeometry x="-1040" y="810" width="160" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="48" value="" style="edgeStyle=none;html=1;" parent="1" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="-1040" y="850" as="sourcePoint"/>
+                        <mxPoint x="-1100" y="870" as="targetPoint"/>
+                        <Array as="points">
+                            <mxPoint x="-1100" y="850"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="49" value="CÓDIGO ==USUARIO10" style="rhombus;whiteSpace=wrap;html=1;fillColor=#fa6800;fontColor=#000000;strokeColor=#C73500;" parent="1" vertex="1">
+                    <mxGeometry x="-1180" y="870" width="160" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="50" value="" style="edgeStyle=none;html=1;" parent="1" target="51" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="-1020" y="910" as="sourcePoint"/>
+                        <Array as="points">
+                            <mxPoint x="-960" y="910"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="51" value="INFORMACIÓN DEL USUARIO" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=#e51400;fontColor=#ffffff;strokeColor=#B20000;" parent="1" vertex="1">
+                    <mxGeometry x="-1020" y="930" width="120" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="52" value="" style="edgeStyle=none;html=1;" parent="1" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="-1180" y="910" as="sourcePoint"/>
+                        <mxPoint x="-1240" y="930" as="targetPoint"/>
+                        <Array as="points">
+                            <mxPoint x="-1240" y="910"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="53" value="CÓDIGO ==USUARIO11" style="rhombus;whiteSpace=wrap;html=1;fillColor=#e3c800;fontColor=#000000;strokeColor=#B09500;" parent="1" vertex="1">
+                    <mxGeometry x="-1320" y="930" width="160" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="54" value="" style="edgeStyle=none;html=1;" parent="1" target="55" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="-1160" y="970" as="sourcePoint"/>
+                        <Array as="points">
+                            <mxPoint x="-1100" y="970"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="55" value="INFORMACIÓN DEL USUARIO" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=#f0a30a;fontColor=#000000;strokeColor=#BD7000;" parent="1" vertex="1">
+                    <mxGeometry x="-1160" y="990" width="120" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="56" value="" style="edgeStyle=none;html=1;" parent="1" target="57" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="-880" y="850" as="sourcePoint"/>
+                        <Array as="points">
+                            <mxPoint x="-820" y="850"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="57" value="INFORMACIÓN DEL USUARIO" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=#d80073;fontColor=#ffffff;strokeColor=#A50040;" parent="1" vertex="1">
+                    <mxGeometry x="-880" y="870" width="120" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="58" value="" style="edgeStyle=none;html=1;" parent="1" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="-1320" y="970" as="sourcePoint"/>
+                        <mxPoint x="-1380" y="990" as="targetPoint"/>
+                        <Array as="points">
+                            <mxPoint x="-1380" y="970"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="59" value="CÓDIGO ==USUARIO12" style="rhombus;whiteSpace=wrap;html=1;fillColor=#647687;fontColor=#ffffff;strokeColor=#314354;" parent="1" vertex="1">
+                    <mxGeometry x="-1460" y="990" width="160" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="60" value="" style="edgeStyle=none;html=1;" parent="1" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="-1460" y="1030" as="sourcePoint"/>
+                        <mxPoint x="-1520" y="1050" as="targetPoint"/>
+                        <Array as="points">
+                            <mxPoint x="-1520" y="1030"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="61" value="CÓDIGO ==USUARIO13" style="rhombus;whiteSpace=wrap;html=1;fillColor=#a0522d;fontColor=#ffffff;strokeColor=#6D1F00;" parent="1" vertex="1">
+                    <mxGeometry x="-1600" y="1050" width="160" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="62" value="" style="edgeStyle=none;html=1;" parent="1" target="63" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="-1440" y="1090" as="sourcePoint"/>
+                        <Array as="points">
+                            <mxPoint x="-1380" y="1090"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="63" value="INFORMACIÓN DEL USUARIO" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=#76608a;fontColor=#ffffff;strokeColor=#432D57;" parent="1" vertex="1">
+                    <mxGeometry x="-1440" y="1110" width="120" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="64" value="" style="edgeStyle=none;html=1;" parent="1" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="-1600" y="1090" as="sourcePoint"/>
+                        <mxPoint x="-1660" y="1110" as="targetPoint"/>
+                        <Array as="points">
+                            <mxPoint x="-1660" y="1090"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="65" value="CÓDIGO ==USUARIO14" style="rhombus;whiteSpace=wrap;html=1;fillColor=#ffcd28;gradientColor=#ffa500;strokeColor=#d79b00;" parent="1" vertex="1">
+                    <mxGeometry x="-1740" y="1110" width="160" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="66" value="" style="edgeStyle=none;html=1;" parent="1" target="67" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="-1580" y="1150" as="sourcePoint"/>
+                        <Array as="points">
+                            <mxPoint x="-1520" y="1150"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="67" value="INFORMACIÓN DEL USUARIO" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" parent="1" vertex="1">
+                    <mxGeometry x="-1580" y="1170" width="120" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="68" value="" style="edgeStyle=none;html=1;" parent="1" target="69" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="-1300" y="1030" as="sourcePoint"/>
+                        <Array as="points">
+                            <mxPoint x="-1240" y="1030"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="69" value="INFORMACIÓN DEL USUARIO" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=#6d8764;fontColor=#ffffff;strokeColor=#3A5431;" parent="1" vertex="1">
+                    <mxGeometry x="-1300" y="1050" width="120" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="70" value="" style="edgeStyle=none;html=1;" parent="1" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="-1740" y="1150" as="sourcePoint"/>
+                        <mxPoint x="-1800" y="1170" as="targetPoint"/>
+                        <Array as="points">
+                            <mxPoint x="-1800" y="1150"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="71" value="CÓDIGO ==USUARIO15" style="rhombus;whiteSpace=wrap;html=1;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;" parent="1" vertex="1">
+                    <mxGeometry x="-1880" y="1170" width="160" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="72" value="" style="edgeStyle=none;html=1;" parent="1" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="-1880" y="1210" as="sourcePoint"/>
+                        <mxPoint x="-1940" y="1230" as="targetPoint"/>
+                        <Array as="points">
+                            <mxPoint x="-1940" y="1210"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="73" value="CÓDIGO ==USUARIO16" style="rhombus;whiteSpace=wrap;html=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" parent="1" vertex="1">
+                    <mxGeometry x="-2020" y="1230" width="160" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="74" value="" style="edgeStyle=none;html=1;" parent="1" target="75" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="-1860" y="1270" as="sourcePoint"/>
+                        <Array as="points">
+                            <mxPoint x="-1800" y="1270"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="75" value="INFORMACIÓN DEL USUARIO" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" parent="1" vertex="1">
+                    <mxGeometry x="-1860" y="1290" width="120" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="76" value="" style="edgeStyle=none;html=1;" parent="1" target="77" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="-1720" y="1210" as="sourcePoint"/>
+                        <Array as="points">
+                            <mxPoint x="-1660" y="1210"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="77" value="INFORMACIÓN DEL USUARIO" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" parent="1" vertex="1">
+                    <mxGeometry x="-1720" y="1230" width="120" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="78" value="" style="edgeStyle=none;html=1;" parent="1" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="-2020" y="1270" as="sourcePoint"/>
+                        <mxPoint x="-2080" y="1290" as="targetPoint"/>
+                        <Array as="points">
+                            <mxPoint x="-2080" y="1270"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="79" value="CÓDIGO ==USUARIO17" style="rhombus;whiteSpace=wrap;html=1;fillColor=#6a00ff;fontColor=#ffffff;strokeColor=#3700CC;" parent="1" vertex="1">
+                    <mxGeometry x="-2160" y="1290" width="160" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="80" value="" style="edgeStyle=none;html=1;" parent="1" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="-2160" y="1330" as="sourcePoint"/>
+                        <mxPoint x="-2220" y="1350" as="targetPoint"/>
+                        <Array as="points">
+                            <mxPoint x="-2220" y="1330"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="81" value="CÓDIGO ==USUARIO18" style="rhombus;whiteSpace=wrap;html=1;fillColor=#e51400;fontColor=#ffffff;strokeColor=#B20000;" parent="1" vertex="1">
+                    <mxGeometry x="-2300" y="1350" width="160" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="82" value="" style="edgeStyle=none;html=1;" parent="1" target="83" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="-2140" y="1390" as="sourcePoint"/>
+                        <Array as="points">
+                            <mxPoint x="-2080" y="1390"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="83" value="INFORMACIÓN DEL USUARIO" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=#a20025;fontColor=#ffffff;strokeColor=#6F0000;" parent="1" vertex="1">
+                    <mxGeometry x="-2140" y="1410" width="120" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="84" value="" style="edgeStyle=none;html=1;" parent="1" target="85" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="-2000" y="1330" as="sourcePoint"/>
+                        <Array as="points">
+                            <mxPoint x="-1940" y="1330"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="85" value="INFORMACIÓN DEL USUARIO" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=#d80073;fontColor=#ffffff;strokeColor=#A50040;" parent="1" vertex="1">
+                    <mxGeometry x="-2000" y="1350" width="120" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="86" value="" style="edgeStyle=none;html=1;" parent="1" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="-2300" y="1390" as="sourcePoint"/>
+                        <mxPoint x="-2360" y="1410" as="targetPoint"/>
+                        <Array as="points">
+                            <mxPoint x="-2360" y="1390"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="87" value="CÓDIGO ==USUARIO19" style="rhombus;whiteSpace=wrap;html=1;fillColor=#6d8764;fontColor=#ffffff;strokeColor=#3A5431;" parent="1" vertex="1">
+                    <mxGeometry x="-2440" y="1410" width="160" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="88" value="" style="edgeStyle=none;html=1;" parent="1" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="-2440" y="1450" as="sourcePoint"/>
+                        <mxPoint x="-2500" y="1470" as="targetPoint"/>
+                        <Array as="points">
+                            <mxPoint x="-2500" y="1450"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="89" value="CÓDIGO ==USUARIO20" style="rhombus;whiteSpace=wrap;html=1;fillColor=#e3c800;fontColor=#000000;strokeColor=#B09500;" parent="1" vertex="1">
+                    <mxGeometry x="-2580" y="1470" width="160" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="90" value="" style="edgeStyle=none;html=1;" parent="1" target="91" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="-2420" y="1510" as="sourcePoint"/>
+                        <Array as="points">
+                            <mxPoint x="-2360" y="1510"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="91" value="INFORMACIÓN DEL USUARIO" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=#76608a;fontColor=#ffffff;strokeColor=#432D57;" parent="1" vertex="1">
+                    <mxGeometry x="-2420" y="1530" width="120" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="92" value="" style="edgeStyle=none;html=1;" parent="1" target="93" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="-2280" y="1450" as="sourcePoint"/>
+                        <Array as="points">
+                            <mxPoint x="-2220" y="1450"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="93" value="INFORMACIÓN DEL USUARIO" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=#fa6800;fontColor=#000000;strokeColor=#C73500;" parent="1" vertex="1">
+                    <mxGeometry x="-2280" y="1470" width="120" height="80" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
